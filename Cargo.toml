@@ -1,7 +1,7 @@
 [package]
-name = "befunge-exec"
+name = "efunge"
 version = "0.1.0"
-authors = ["t-kybrow"]
+authors = ["Kyle Brown"]
 edition = "2018"
 
 [dependencies]

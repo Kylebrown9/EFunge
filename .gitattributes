@@ -2,3 +2,4 @@
 *.bf linguist-language=Befunge
 *.b93 linguist-language=Befunge
 *.b98 linguist-language=Befunge
+*.ef linguist-language=EFunge
